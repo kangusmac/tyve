@@ -1,0 +1,127 @@
+gade,postnr,beholder,antal
+A.L. Passagen  1,6000,"240 l. beh, restaffald",1
+A.L. Passagen  1,6000,"400 l. con, madaffald",1
+A.L. Passagen  1,6000,"770 l. con, restaffald",2
+Akseltorv  5,6000,"240 l. beh, madaffald",1
+Akseltorv  5,6000,"400 l. con, madaffald",1
+Akseltorv  5,6000,"660 l. con, restaffald",5
+Akseltorv  8,6000,"2-delt 240 l. beh, rest/mad",1
+Bredgade  15,6000,"140 l. beholder, mad",1
+Bredgade  15,6000,"400 l. con, restaffald",1
+Buen  2,6000,"140 l. beholder, mad",1
+Buen  2,6000,"660 l. con, restaffald",2
+Buen  8,6000,"190 l. beholder, mad",1
+Buen  8,6000,"660 l. con, restaffald",2
+Christian  4,6000,"2-delt 240 l. beh, r/m-sætte f",2
+Christian  4,6000,"2-delt 240 l. beh, rest/mad",1
+Gråbrødregade  11,6000,"140 l beholder, mad - sætter f",1
+Gråbrødregade  11,6000,"400 l. con, rest - sætte frem",1
+Gråbrødregade  15,6000,"140 l beholder, mad - sætter f",1
+Gråbrødregade  15,6000,"400 l. con, rest - sætte frem",1
+Haderslevvej  65,6000,"2-delt 240 l. beh, rest/mad",1
+Haderslevvej  65,6000,"2-delt 370 l. beh, r/m-sætte f",1
+Helligkorsgade  12,6000,"2-delt 370 l. beh, r/m-sætte f",1
+Helligkorsgade  14,6000,"190 l. beholder, mad, sætter f",1
+Helligkorsgade  14,6000,"400 l. con, rest - sætte frem",1
+Helligkorsgade  17,6000,"2-delt 370 l. beh, rest/mad",1
+Helligkorsgade  20,6000,"240 l. beh, madaffald",1
+Helligkorsgade  20,6000,"660 l. con, restaffald",1
+Helligkorsgade  22,6000,"400 l. con, madaffald",1
+Helligkorsgade  22,6000,"770 l. con, restaffald",2
+Idyl  21,6000,"2-delt 240 l. beh, rest/mad",1
+Idyl  23,6000,"2-delt 240 l. beh, rest/mad",1
+Idyl  25,6000,"2-delt 240 l. beh, rest/mad",1
+Idyl  27,6000,"2-delt 370 l. beh, rest/mad",1
+Idyl  29,6000,"2-delt 240 l. beh, rest/mad",1
+Jernbanegade  1,6000,"140 l beholder, mad - sætter f",1
+Jernbanegade  1,6000,"240 l. beholder, mad, med lås",1
+Jernbanegade  1,6000,"400 l .con, rest, med lås",1
+Jernbanegade  1,6000,"400 l. con, rest - sætte frem",1
+Jernbanegade  1,6000,"660 l. con, rest, med lås",1
+Jernbanegade  3,6000,"190 l. beholder, mad",1
+Jernbanegade  3,6000,"660 l. con, restaffald",2
+Jernbanegade  4,6000,"130 l. sæk, resta - sætte frem",1
+Jernbanegade  4,6000,"90 l. sæk, mad - sætte frem",1
+Jernbanegade  6,6000,"2-delt 240 l. beh, rest/mad",5
+Jernbanegade  8,6000,"2-delt 240 l. beh, r/m-sætte f",2
+Jernbanegade  10,6000,"2-delt 240 l. beh, r/m-sætte f",3
+Jernbanegade  11,6000,"2-delt 240 l. beh, r/m-sætte f",4
+Jernbanegade  15,6000,"400 l. con, madaffald",1
+Jernbanegade  15,6000,"660 l. con, restaffald",2
+Jernbanegade  16,6000,"240 l. beh, mad - sætte frem",1
+Jernbanegade  16,6000,"660 l. con, rest - sætte frem",1
+Jernbanegade  17,6000,"190 l. beholder, mad",1
+Jernbanegade  17,6000,"400 l. con, restaffald",1
+Jernbanegade  17,6000,"660 l. con, restaffald",1
+Jernbanegade  19,6000,"140 l. beholder, mad",1
+Jernbanegade  19,6000,"660 l. con, restaffald",1
+Jernbanegade  20,6000,"240 l. beh, madaffald",1
+Jernbanegade  20,6000,"660 l. con, restaffald",2
+Jernbanegade  21,6000,"240 l. beh, madaffald",1
+Jernbanegade  21,6000,"400 l. con, restaffald",1
+Jernbanegade  21,6000,"660 l. con, restaffald",1
+Jernbanegade  22,6000,"2-delt 240 l. beh, rest/mad",1
+Jernbanegade  23,6000,"130 l. sæk, restaffald erhverv",1
+Jernbanegade  23,6000,"240 l. beh, madaffald",1
+Jernbanegade  23,6000,"770 l. con, restaffald",1
+Jernbanegade  24,6000,"240 l. beh, madaffald",1
+Jernbanegade  24,6000,"400 l. con, madaffald",1
+Jernbanegade  24,6000,"400 l. con, restaffald",1
+Jernbanegade  24,6000,"770 l. con, restaffald",4
+Jernbanegade  28,6000,"240 l. beh, madaffald",1
+Jernbanegade  28,6000,"660 l. con, restaffald",1
+Jernbanegade  32,6000,"190 l. beholder, mad",1
+Jernbanegade  32,6000,"400 l. con, restaffald",1
+Jernbanegade  32,6000,"660 l. con, restaffald",1
+Klostergade  3,6000,"130 l. sæk, resta - sætte frem",1
+Klostergade  3,6000,"90 l. sæk, mad - sætte frem",1
+Klostergade  12,6000,"130 l. sæk, restaffald",1
+Klostergade  12,6000,"90 l. sæk, madaffald",1
+Klostergade  16,6000,"400 l. con, madaffald",2
+Klostergade  16,6000,"660 l. con, restaffald",6
+Klostergade  60,6000,"400 l. con, mad - sætte frem",1
+Klostergade  60,6000,"400 l. con, rest - sætte frem",1
+Klostergade  60,6000,"770 l. con, rest - sætte frem",2
+Lilletorv  2,6000,"400 l. con, mad, med lås",1
+Lilletorv  2,6000,"660 l. con, rest, med lås",2
+Munkegade  4,6000,"240 l. beh, restaffald",1
+Munkegade  4,6000,"400 l. con, madaffald",1
+Munkegade  4,6000,"770 l. con, restaffald",3
+Munkegade  5,6000,"190 l. beholder, mad, sætter f",1
+Munkegade  5,6000,"660 l. con, rest - sætte frem",1
+Munkegade  7,6000,"190 l. beholder, mad",1
+Munkegade  7,6000,"660 l. con, restaffald",1
+Nordvang  12,6000,"2-delt 240 l. beh, rest/mad",1
+Nordvang  19,6000,"2-delt 240 l. beh, rest/mad",1
+Nordvang  21,6000,"2-delt 240 l. beh, rest/mad",1
+Rendebanen  6,6000,"190 l. beholder, mad, sætter f",1
+Rendebanen  6,6000,"400 l. con, rest - sætte frem",1
+Rendebanen  6,6000,"660 l. con, rest - sætte frem",1
+Slotsgade  21,6000,"190 l. beholder, mad",1
+Slotsgade  21,6000,"400 l. con, restaffald",1
+Slotsgade  22,6000,"400 l. con, madaffald",1
+Slotsgade  22,6000,"400 l. con, restaffald",1
+Slotsgade  22,6000,"770 l. con, restaffald",1
+Søndergade  1,6000,"140 l. beholder, mad",1
+Søndergade  1,6000,"660 l. con, restaffald",1
+Søndergade  8,6000,"2-delt 370 l. beh, rest/mad",1
+Søndergade  10,6000,"140 l beholder, mad - sætter f",1
+Søndergade  10,6000,"660 l. con, rest - sætte frem",1
+Søndergade  12,6000,"400 l. con, madaffald",1
+Søndergade  12,6000,"770 l. con, restaffald",4
+Søndergade  15,6000,"190 l. beholder, mad",1
+Søndergade  15,6000,"400 l. con, restaffald",1
+Søndergade  21,6000,"2-delt 240 l. beh, r/m-sætte f",1
+Søndergade  27,6000,"190 l. beh, mad, med lås",1
+Søndergade  27,6000,"2-delt 370 l. beh, rest/mad",1
+Søndergade  27,6000,"660 l. con, rest, med lås",1
+Søndergade  29,6000,"240 l. beh, mad, med lås, SF",1
+Søndergade  29,6000,"660 con, rest - m lås sætte f",1
+Søndergade  32,6000,"140 l. beholder, mad",1
+Søndergade  32,6000,"660 l. con, restaffald",2
+Østergade  3,6000,"130 l. sæk, restaffald erhverv",1
+Østergade  7,6000,"2-delt 240 l. beh, rest/mad",1
+Østergade  11,6000,"2-delt 240 l. beh, rest/mad",1
+Østergade  13,6000,"2-delt 370 l. beh, rest/mad",1
+Østergade  17,6000,"130 l. sæk, resta - sætte frem",2
+Østergade  17,6000,"90 l. sæk, mad - sætte frem",2
